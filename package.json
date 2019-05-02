@@ -1,0 +1,19 @@
+{
+    "name": "backend-server",
+    "version": "1.0.0",
+    "description": "Servidor backend del curso angular avanzado\u001b[D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[A",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Joel Velazquez",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.4",
+        "mongoose": "^5.5.5"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.0"
+    }
+}
